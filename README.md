@@ -60,6 +60,7 @@ Our project roadmap outlines our development milestones and goals.
 ## Contributors
 
 [Hazmir Laila](https://github.com/laila22haz)
+
 [Bentiah Badreddine](https://github.com/badrbnh/)
 
 ## License

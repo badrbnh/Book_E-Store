@@ -42,7 +42,7 @@ To get the project up and running on your local machine, follow these steps:
 ## Technologies Used
 
 - Frontend:
-  - [List frontend technologies here, e.g., HTML, CSS, JavaScript, React, etc.]
+  - [HTML, CSS]
 - Backend:
   - [List backend technologies here, e.g., Python, Django, Ruby on Rails, Node.js, etc.]
 - Database:

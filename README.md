@@ -8,7 +8,7 @@ Welcome to the Online Bookstore project! This web application is designed to pro
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Features
@@ -58,6 +58,9 @@ Our project roadmap outlines our development milestones and goals.
 
 
 ## Contributors
+
+[Hazmir Laila](https://github.com/laila22haz)
+[Bentiah Badreddine](https://github.com/badrbnh/)
 
 ## License
 

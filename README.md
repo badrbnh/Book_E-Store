@@ -52,8 +52,9 @@ To get the project up and running on your local machine, follow these steps:
 
 Our project roadmap outlines our development milestones and goals.
 
-![E-Store](https://github.com/badrbnh/Book_E-Store/assets/81806381/fd9e72f0-5577-4ce4-b3df-5d6049587565)
 
+
+![E-Store](https://github.com/badrbnh/Book_E-Store/assets/81806381/1b99fcc7-4779-478b-a969-c516df81aa25)
 
 
 ## Contributors

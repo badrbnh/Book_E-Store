@@ -21,20 +21,6 @@ Welcome to the Online Bookstore project! This web application is designed to pro
 
 ## Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- [List any prerequisites here, e.g., Node.js, Python, MySQL, etc.]
-
-### Installation
-
-To get the project up and running on your local machine, follow these steps:
-
-1. Clone this repository.
-2. [Add any specific installation instructions here, e.g., setting up the database, installing dependencies, etc.]
-3. Run the application using [instructions for running your chosen backend/frontend framework].
-
 ### Usage
 
 [Loading...]
@@ -54,7 +40,6 @@ To get the project up and running on your local machine, follow these steps:
 ## Roadmap
 
 Our project roadmap outlines our development milestones and goals.
-
 
 
 ![E-Store](https://github.com/badrbnh/Book_E-Store/assets/81806381/1b99fcc7-4779-478b-a969-c516df81aa25)

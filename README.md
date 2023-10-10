@@ -68,7 +68,7 @@ Our project roadmap outlines our development milestones and goals.
 
 ## Acknowledgments
 
-- [List any acknowledgments or credits here, including any libraries, resources, or individuals who inspired or helped with the project.]
+- [Loading...]
 
 ---
 

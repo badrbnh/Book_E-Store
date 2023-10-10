@@ -66,10 +66,6 @@ Our project roadmap outlines our development milestones and goals.
 
 [Bentiah Badreddine](https://github.com/badrbnh/)
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - [List any acknowledgments or credits here, including any libraries, resources, or individuals who inspired or helped with the project.]

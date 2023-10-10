@@ -42,11 +42,14 @@ To get the project up and running on your local machine, follow these steps:
 ## Technologies Used
 
 - Frontend:
-  - [HTML, CSS]
+  
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=10)
 - Backend:
-  - [List backend technologies here, e.g., Python, Django, Ruby on Rails, Node.js, etc.]
+ 
+  ![My Skills](https://skillicons.dev/icons?i=python,flask&perline=10)
 - Database:
-  - [List database technologies here, e.g., MySQL, PostgreSQL, MongoDB, etc.]
+  
+  ![My Skills](https://skillicons.dev/icons?i=mysql&perline=10)
 
 ## Roadmap
 

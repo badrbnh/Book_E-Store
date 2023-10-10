@@ -37,7 +37,7 @@ To get the project up and running on your local machine, follow these steps:
 
 ### Usage
 
-[Provide usage instructions here. Explain how to use and interact with the application.]
+[Loading...]
 
 ## Technologies Used
 

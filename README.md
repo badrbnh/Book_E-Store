@@ -43,7 +43,7 @@ To get the project up and running on your local machine, follow these steps:
 
 - Frontend:
   
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=10)
+  ![My Skills](https://skillicons.dev/icons?i=figma,html,css,js&perline=10)
 - Backend:
  
   ![My Skills](https://skillicons.dev/icons?i=python,flask&perline=10)

@@ -2,6 +2,9 @@
 """The Base Model Of Console"""
 from datetime import datetime
 from uuid import uuid4
+from sqlalchemy.ext.declarative import declarative_base
+
+Base = declarative_base()
 
 class BaseModel():
     """Class that is the is base"""

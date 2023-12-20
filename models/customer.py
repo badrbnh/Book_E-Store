@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""The User Class"""
 from models.basemodel import BaseModel
 from models.user import User
 

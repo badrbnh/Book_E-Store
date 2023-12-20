@@ -1,13 +1,15 @@
 #!/usr/bin/python3
+"""The User Class"""
 from models.basemodel import BaseModel
 
+
 class User(BaseModel):
-    username = ""
+    """class building"""
+    user_name = ""
     email = ""
+    password = ""
     pnumber = 0
     country = ""
-    password = ""
-    
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-    
+
+    def __init__(self, *args, **kwags):
+        super().__init__(*args, **kwags)

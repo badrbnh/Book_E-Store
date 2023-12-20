@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 from models.basemodel import BaseModel
 
 class Author(BaseModel):

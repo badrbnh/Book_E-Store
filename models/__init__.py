@@ -7,6 +7,7 @@ from models.engine.db_storage import DBStorage
 from models.engine.file_storage import FileStorage
 
 
+
 storage_t = getenv("EBOOK_TYPE_STORAGE")
 
 if storage_t == "db":
@@ -14,3 +15,4 @@ if storage_t == "db":
 else:
     storage = FileStorage()
 storage.reload()
+
